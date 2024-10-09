@@ -1,1 +1,32 @@
-# cs4958
+java c
+JOUR 1501: DIGITAL GAMES AND SOCIETY
+Final Project: Gaming Communities
+Fall 2024
+A signiﬁcant component of your grade will come from the thematic essay due at the end of the course. In this project, your job is to examine a gaming community and reﬂect on what  that community reveals about digital gaming today. In a proposal (250 words) and essay (1000 words), you will examine a single game, using well-chosen sources to support your discussion. The broader objective of this assignment is to better understand the impacts and roles of digital games in society.
+The assignment has two components:
+Paper Proposal: due Thurs, Oct 10
+●   Expectations: The proposal should outline your plans for the ﬁ nal essay. It should indicate which game you plan to examine, which aspects of the game you will focus on, what makes this game and these aspects worthy of analysis, and at least two quality sources that shed light on the game, the concepts you will explore, or the aspects of the game you will focus on in the paper.
+●   Length: 250 words, plus or minus 50 words, with the bibliography not counting
+toward this length. The proposal should be double-spaced, should refer directly to at least two quality external sources (not from course materials) that you have located, and should include a proper bibliography with full citations in APA format (please do not simply list weblinks).
+●   Your submission should include your name at the top and should be in pdf format.
+Final Paper: due Thurs, Dec 5
+●   What to include: Your essay should be approximately 1000 words in length (plus or minus 100 words). You may include any text from your proposal. The goal of that assignment is to get you started on the essay. If you plan well, your proposal will provide a strong start to the paper itself. The 1000 word target is for the main text:    your bibliography and any images or data visualizations are separate from this word limit.
+●   Your paper should refer directly to at least four quality sources (see below for what kinds of things qualify).
+●   Your paper should be strong on analysis, so you will need to get to the point quickly. Pro tip: your ﬁ rst sentence should mention the game you are studying and every sentence afterward should take the reader further into your thinking, evidence, and  sources. Please avoid long, general introductions. You have only 1000 words and will need to use that space wisely.
+The proposal is meant as a building block: it should get you started and should be the basis for your ﬁ nal essay. To repeat: yes, you are welcome to use any text from the proposal in the ﬁ nal paper. If you use most of your proposal text, it’s a sign you made some good decisions early on in your project.
+Some advice
+For your game of choice, avoid the obvious. Try to ﬁ nd something that not everyone has used or thought about. Ideally it should be something that's new to you (or at least not-so-familiar).
+Very important: the theme is community and you should think about this as you select your game. For example, Tetris. It’s a great game, but what is the community element? Same for lots of other games out there. You will need to choose a game that has a community via multiplayer mode OR i代 写JOUR 1501: DIGITAL GAMES AND SOCIETY Fall 2024
+代做程序编程语言n competitions OR in-person (e.g. arcades  gaming dens) OR in online communities where people discuss the game.
+Try to avoid the breathless tone of "this is awesome!" Be more subtle. Think not only of possibilities but also limitations and inconsistencies and problems. Avoid writing like a fan: in other words, this is not an exercise in saying how much you *like* a game. It's about discussing how the game works, how exploration is achieved or not achieved via this game, and what this means for how we engage with digital games, each other, and the world around us.
+What makes for a quality source? One way to think of this is the kind of publication: academic articles, smart journalism (Vox, Slate, Wired, New Yorker, The New York Times, The Washington Post, etc.), well-informed podcasts and multimedia, and some blogs by reputable authors. Another, more general way is to ask: “Does this person have an authoritative viewpoint? Would well-informed people look at this and say, “yes, this is thoughtful and helpful for analysis”? Things to avoid: random web articles whose authors and publications are unclear, ‘list’ type articles, puﬀ pieces that serve as promotional materials, sub reddits, Discord chats. If unsure, ask.
+Keep your focus narrow. Pick one game, not a category or genre or series. Dive into that game by emphasizing one or a few speciﬁc aspects that are signiﬁcant.
+When preparing your proposal and the ﬁ nal submission, get to the point, as there are much more important things to discuss! "In 2020, Game XYZ was launched … " (engaging, speciﬁc) is a much better starting point than "Throughout history, people have played games … " (boring, obvious). One egregious way to waste space: a long, general introduction. Your ﬁ rst sentence should mention the game you are studying. From there, it should only get deeper.
+When picking a game and an approach, choose once and choose well. If you decide halfway through the semester that you want to do something diﬀerent, you will need to create a new proposal for the new idea. This is advice not only for this class but all other classes. Changing topics is disruptive and time-consuming; less charitable professors and future bosses will see it as evidence that you are not focused.Visuals are important! Show how the game allows and encourages exploration, and/or how it fails in doing so. Screenshots are welcome, as are data visualizations that tell the reader about the game and its signiﬁcance.Submit pdf documents only. If you’re using other software, you will need to convert the ﬁle. This is preparation for life beyond the university, where you will need to use the software -  good or bad - that’s in use where you work.
+Nothing says professionalism like a properly formatted bibliography. Use APA style. Make it correct and consistent. Please do not just dump weblinks on a page. Show that, from beginning to end, you have approached this with passion and diligence.Above all: take the opportunity to reﬂect on what digital games mean for how we engage   with each other and understand the world around us. It’s a remarkable moment for those of us who are fascinated by questions of gaming and society. Have fun!
+
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
